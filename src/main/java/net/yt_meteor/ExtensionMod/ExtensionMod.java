@@ -16,6 +16,7 @@ public class ExtensionMod {
     public static final String MOD_ID = "extensionmod";
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    // Very Important Comment
     public ExtensionMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
