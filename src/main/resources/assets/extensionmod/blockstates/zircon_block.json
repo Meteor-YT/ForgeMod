@@ -1,5 +1,7 @@
 {
   "variants": {
-    "": { "model": "extensionmod:block/zircon_block"}
+    "": {
+      "model": "extensionmod:block/zircon_block"
+    }
   }
 }

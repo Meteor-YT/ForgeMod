@@ -1,5 +1,7 @@
 {
   "variants": {
-    "": { "model": "extensionmod:block/endstone_zircon_ore" }
+    "": {
+      "model": "extensionmod:block/endstone_zircon_ore"
+    }
   }
 }
