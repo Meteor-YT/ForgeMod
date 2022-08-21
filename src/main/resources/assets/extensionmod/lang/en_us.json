@@ -2,5 +2,11 @@
   "item.extensionmod.zircon": "Zircon",
   "item.extensionmod.raw_zircon": "Raw Zircon",
 
+  "block.extensionmod.zircon_block": "Block of Zircon",
+  "block.extensionmod.zircon_ore": "Zircon Ore",
+  "block.extensionmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.extensionmod.netherrack_zircon_ore": "Netherrack Zircon Ore",
+  "block.extensionmod.endstone_zircon_ore": "Endstone Zircon Ore",
+
   "itemGroup.extensiontab": "Extension Tab"
 }
