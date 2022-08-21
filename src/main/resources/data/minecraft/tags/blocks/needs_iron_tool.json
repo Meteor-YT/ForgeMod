@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "extensionmod:zircon_ore",
+    "extensionmod:zircon_block",
+    "extensionmod:deepslate_zircon_ore",
+    "extensionmod:netherrack_zircon_ore",
+    "extensionmod:endstone_zircon_ore"
+  ]
+}
