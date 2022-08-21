@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "extensionmod:block/endstone_zircon_block"
+    "all": "extensionmod:block/endstone_zircon_ore"
   }
 }

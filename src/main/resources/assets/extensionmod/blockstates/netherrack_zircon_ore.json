@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "extensionmod:block/netharrack_zircon_ore"
+      "model": "extensionmod:block/netherrack_zircon_ore"
     }
   }
 }
